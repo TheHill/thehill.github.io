@@ -253,9 +253,9 @@ jQuery(document).ready(function($) {
 
     "use strict";
     //set your google maps parameters
-    var $latitude = 51.748487, //If you unable to find latitude and longitude of your address. Please visit http://www.latlong.net/convert-address-to-lat-long.html you can easily generate.
-        $longitude = -1.239043,
-        $map_zoom = 16; /* ZOOM SETTING */
+    var $latitude = 51.759472, //If you unable to find latitude and longitude of your address. Please visit http://www.latlong.net/convert-address-to-lat-long.html you can easily generate.
+        $longitude = -1.212477,
+        $map_zoom = 14; /* ZOOM SETTING */
 
     //google map custom marker icon - .png fallback for IE11
     var is_internetExplorer11 = navigator.userAgent.toLowerCase().indexOf('trident') > -1;
