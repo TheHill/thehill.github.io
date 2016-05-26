@@ -662,7 +662,8 @@ a.white-text:hover {
 }
 
 .client-logos li img {
-	max-height: 40px;
+	/*max-height: 40px;*/
+	max-height: 120px;
 	opacity: 0.6;
 }
 
